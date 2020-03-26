@@ -1,0 +1,23 @@
+body { 
+    background-color: #e1ad01;
+    font-family: 'Bebas Neue', cursive;
+  } 
+
+ .navbar{
+    padding: 30px;
+    bottom: 10px;
+    font-size: larger;
+}
+
+.container{
+    text-align: center;
+    padding: 45px;
+    background-color: tan;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    
+}
+

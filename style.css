@@ -1,0 +1,41 @@
+body{
+    background-image: url("images/friends.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.navbar{
+    padding: 30px;
+    bottom: 10px;
+}
+.jumbotron {
+background-color: transparent;
+position: relative;
+top:-50px;
+text-align: center;
+
+
+
+}
+
+.btn{
+    display: inline;
+
+}
+.display-4:after{
+    font-weight: bold;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: transparent;
+    text-align: center;
+ }
+ 
+  
